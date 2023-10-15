@@ -1,4 +1,4 @@
-# <p align='center'>Практическое задание 24 MVC</p>
+# <p align='center'>Практическое задание 24. MVC Старт</p>
 
 <p align='center'>Выполнено в качестве практического задания на курсе "Продвинутый Backend"</p>
 
@@ -15,4 +15,4 @@
 
 ## Как открыть/запустить
 
-Клонировать https://github.com/KorenevVyacheslav/MVC_start на свой ПК и запустить с помощью вашего php-отладчика.
+Клонировать https://github.com/KorenevVyacheslav/MVC_start на свой ПК. Перенести папку Sit в папку с ваими доменами, например, для OSP это будет папка c:\Program Files\OSPanel\domains\Sit. Выполнить команду composer update для загрузки папки 'vendor'. Запустить index.php.
