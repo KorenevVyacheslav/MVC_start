@@ -15,4 +15,4 @@
 
 ## Как открыть/запустить
 
-Клонировать https://github.com/KorenevVyacheslav/MVC_start на свой ПК. Перенести папку Sit в папку с ваими доменами, например, для OSP это будет папка c:\Program Files\OSPanel\domains\Sit. Выполнить команду composer update для загрузки папки 'vendor'. Запустить index.php.
+Клонировать https://github.com/KorenevVyacheslav/MVC_start на свой ПК. Перенести папку Sit в папку с ваими доменами, например, для OSP это будет папка c:\Program Files\OSPanel\domains\Sit. Выполнить команду "composer update" для загрузки папки 'vendor'. Запустить index.php.
